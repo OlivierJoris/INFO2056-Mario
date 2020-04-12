@@ -9,4 +9,5 @@ $ python3 mario.py
 
 ## Keys in the game
 - Move with the arrow-scroll keys.
-- Respawn with 'R' key.
+- Jump with the space key.
+- Respawn with the 'R' key.
