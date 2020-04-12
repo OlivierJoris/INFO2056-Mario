@@ -1,5 +1,5 @@
 # INFO2056-Mario
-A platform game made with pygame.
+A platform game made with pygame
 
 ## Usage
 Install python3, pygame and run :
