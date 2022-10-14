@@ -1,13 +1,13 @@
-# Mario platform game
-A Mario platform game made with pygame. This project was made as part of the *Premier projet d'informatique* course given by Laurent Mathy at the University of Liège during the academic year 2018-2019.
+# Jeu de plateforme Mario
+Un jeu de plateforme Mario réalisé avec pygame. Ce projet a été réalisé dans le cadre du cours *Premier projet d'informatique* donné par Laurent Mathy à l'Université de Liège durant l'année académique 2018-2019.
 
-## Usage
-Install python3, pygame and run :
+## Utilisation
+Installer python3, pygame et lancer:
 ```bash
 $ python3 mario.py
 ```
 
-## Keys in the game
-- Move with the arrow-scroll keys.
-- Jump with the space key.
-- Respawn with the 'R' key.
+## Commandes dans le jeu
+- Bouger Mario avec les flèches.
+- Faire sauter Mario avec la barre d'espace.
+- Réapparaître après une mort avec la touche 'R'.
